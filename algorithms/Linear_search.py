@@ -11,11 +11,11 @@ class linear:
         self.index = []
 
     def search(self, array, objective):
-
-
-
+        
+         start_time = time.time()
+        
         for i in range(len(array)):
-            start_time = time.time()
+           
             if array[i] == objective:
                 self.index.append(i)
                 end_time = time.time()
