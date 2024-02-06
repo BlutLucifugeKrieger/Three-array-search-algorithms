@@ -12,7 +12,7 @@ class linear:
 
     def search(self, array, objective):
         
-         start_time = time.time()
+        start_time = time.time()
         
         for i in range(len(array)):
            
@@ -75,3 +75,4 @@ class linear:
 
         else:
             print(f"Please, try again")
+
