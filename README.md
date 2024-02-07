@@ -57,6 +57,28 @@ ________________________________________________________________________________
 
   * First clone this repository and run the main.py file.
 
-  *Then, you should got this:* 
+  **Then, you should got this:**
+
+     ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/2c8175b0-2b07-4e9c-b4dd-7c869a3b0f92)
+     
+   **In this screen, you should type a number to choose the method**
+
+      ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/c0b37692-5e2e-4e7f-95fd-4f83cb4b4d06)
+
+   **In this case, i wanna use the linear method, and as entry array i type: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+      ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/544ae9d5-0e17-428a-9a76-5dc277f7f5b3)
+
+   **Then pull the enter key, and select a target number (number to search in the input array), for this example, i'll select 9 as target number.
+
+      ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/877fc6ed-bd35-4824-95fd-b12b2b1e7c54)
+
+   **And we got this:**
+
+      ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/5b738128-2c2b-49c1-991c-a2cce6d79b36)
+
    
+
+
+
  
