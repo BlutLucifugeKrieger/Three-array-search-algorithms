@@ -35,3 +35,16 @@ if the target number isn't in the input array, it'll show you a unique message s
 *  This process is repeated until the searched element is found or determined not to be in the array.
   
 *  Binary search is much more efficient than linear search, since its execution time is logarithmic in the worst case, meaning that the execution time increases in proportion to the logarithm of the array size.
+
+
+### What's ternary search?
+
+   * Ternary search is similar to binary search, but instead of splitting the array into two parts, it splits it into three equal parts.
+     
+   * Compares the searched element with the values at two division points.
+     
+   * Depending on how these values are compared, it can be determined in which of the three parts (left, middle or right) of the array the desired element is located.
+     
+   * Then, repeat the process in the part of the array where it is determined that the searched element could be.
+
+   * Like binary search, ternary search is efficient and has a worst-case logarithmic execution time.
