@@ -58,7 +58,9 @@ ________________________________________________________________________________
   * First clone this repository and install the requirements.txt.
 
        **-> For clone this repository use:** git clone https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms.git
+
        **-> And, to install all the dependencies use:** pip install -r requirements.txt
+    
   * Second, run the main.py file
 
   **Then, you should got this:**
