@@ -55,7 +55,10 @@ ________________________________________________________________________________
  ## How to use this repository?
 
 
-  * First clone this repository and run the main.py file.
+  * First clone this repository and install the requirements.txt.
+
+       -> For clone this repository use: git clone 
+  * Second, run the main.py file
 
   **Then, you should got this:**
 
