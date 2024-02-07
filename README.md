@@ -77,6 +77,7 @@ ________________________________________________________________________________
 
    ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/5b738128-2c2b-49c1-991c-a2cce6d79b36)
    
+_____________________________________________________________________________________________________________________________________________
 
    **Another example**
    
@@ -84,6 +85,10 @@ ________________________________________________________________________________
    
    ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/69a2bb3b-81ad-4d62-8f32-ab1d6b17c496)
 
+ ____________________________________________________________________________________________________________________________________________
+
+   **Coverage result**
+   ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/b7de2fea-6c72-43cd-8665-1e2cbe2cd518)
 
 
 
