@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
    ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/877fc6ed-bd35-4824-95fd-b12b2b1e7c54)
 
-   **And we got this:**
+   **And we got this, a graph of the current memory used and the elapsed time:**
 
    ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/5b738128-2c2b-49c1-991c-a2cce6d79b36)
    
