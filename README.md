@@ -6,3 +6,11 @@
 ## Three array search algorithms
 ___________________________________
 ### Made by: Camilo Castro
+
+
+## Description
+
+This repository can search a target number from an entry array using a linear,binary and ternary methods, and specifie whats is the position of that target number in input array,
+if the target number isn't in the input array, it'll show you a unique message saying that you should try again, but with another number.
+
+### What's is linear search
