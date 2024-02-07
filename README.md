@@ -76,8 +76,14 @@ ________________________________________________________________________________
    **And we got this:**
 
    ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/5b738128-2c2b-49c1-991c-a2cce6d79b36)
-
    
+
+   **Another example**
+   
+   ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/813008a8-6901-41b5-89f6-dddc0f0b7362)
+   
+   ![image](https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms/assets/130005378/69a2bb3b-81ad-4d62-8f32-ab1d6b17c496)
+
 
 
 
