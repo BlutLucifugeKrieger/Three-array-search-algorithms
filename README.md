@@ -6,7 +6,7 @@
 ## Three array search algorithms
 
 ### Made by: Camilo Castro
-___________________________________
+_____________________________________________________
 
 
 ## Description
@@ -48,3 +48,15 @@ if the target number isn't in the input array, it'll show you a unique message s
    * Then, repeat the process in the part of the array where it is determined that the searched element could be.
 
    * Like binary search, ternary search is efficient and has a worst-case logarithmic execution time.
+
+_________________________________________________________________________________
+
+
+ ## How to use this repository?
+
+
+  * First clone this repository and run the main.py file.
+
+  *Then, you should got this:* 
+   
+ 
