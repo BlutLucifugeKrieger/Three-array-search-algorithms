@@ -102,5 +102,12 @@ ________________________________________________________________________________
 
 
 
+   **Related info**
+
+   * https://www.techiedelight.com/es/ternary-search-vs-binary-search/
+     
+   * https://www.thedshandbook.com/searching-in-arrays/
+     
+
 
  
