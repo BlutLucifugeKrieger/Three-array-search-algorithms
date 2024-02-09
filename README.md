@@ -5,7 +5,7 @@
 
 ## Three array search algorithms
 
-### Made by: Camilo Castro
+### Made by: Juan Camilo Castro Velasquez
 _____________________________________________________
 
 
